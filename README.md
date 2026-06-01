@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gustavo Lobato
 
-*Desenvolvedor Estudante*
+*Desenvolvedor iniciante*
 
 Me chamo Gustavo Lobato, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Tecnologia e Sistemas para Internet no IFSUL. Meu objetivo é me tornar um desenvolvedor cada vez mais completo, capaz de atuar em diferentes áreas da tecnologia e gerar impacto positivo através da programação.<br/>
 Meu perfil no <a href="https://www.linkedin.com/in/gustavo-lobato-a480363b0/">Linkedin.</a>
