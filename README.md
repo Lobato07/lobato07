@@ -60,8 +60,10 @@ Meu perfil no <a href="https://www.linkedin.com/in/gustavo-lobato-a480363b0/">Li
     alt="Github Stats" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lobato07&show_icons=true&theme=tokyoknight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Lobato07&show_icons=true&theme=tokyoknight&include_all_commits=true&locale=pt-br"
 />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <img 
     align="left" 
