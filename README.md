@@ -41,7 +41,6 @@ Meu perfil no <a href="https://www.linkedin.com/in/gustavo-lobato-a480363b0/">Li
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-/>
 <img 
     align="left" 
     alt="C++" 
