@@ -72,5 +72,5 @@ Meu perfil no <a href="https://www.linkedin.com/in/gustavo-lobato-a480363b0/">Li
     title="Claude"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claudecode.png" 
+    src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" 
 />
