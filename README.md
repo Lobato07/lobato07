@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/gustavo-lobato-a480363b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Lobato07">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -49,8 +49,8 @@ Busco evoluir constantemente como desenvolvedor, unindo a experiência prática 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lobato07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobato07&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
 
