@@ -3,7 +3,7 @@
 # Olá, eu sou o Gustavo Lobato 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estagi%C3%A1rio+de+T.I.;Estudante+de+Sistemas+para+Internet;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estagi%C3%A1rio+de+T.I.;Estudante+de+Sistemas+para+Internet" alt="Typing SVG" />
 </a>
 
 <br/>
