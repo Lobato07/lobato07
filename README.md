@@ -65,3 +65,12 @@ Meu perfil no <a href="https://www.linkedin.com/in/gustavo-lobato-a480363b0/">Li
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Claude" 
+    title="Claude"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claudecode.png" 
+/>
